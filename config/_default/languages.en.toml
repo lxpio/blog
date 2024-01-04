@@ -1,0 +1,15 @@
+
+languageName = "English"
+contentDir = "content/en"
+languageCode = 'en'
+languageDirection = 'ltr'
+weight = 2
+title = "LXPIO"
+
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+

@@ -1,0 +1,13 @@
+
+LanguageName = "中文"
+contentDir = "content/zh"
+languageDirection = 'ltr'
+languageCode = 'zh-cn'
+title = "理想派"
+weight = 1
+
+[params]
+  dateFormat = "2006-01-02"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
