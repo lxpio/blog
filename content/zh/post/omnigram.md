@@ -1,7 +1,6 @@
 ---
 title: "关于Omnigram的一些草案想法"
 date: 2024-01-14T15:08:45+08:00
-draft: true
 description: ""
 tags: ["omnigram", "dev"]
 categories: ["omnigram"]
@@ -21,8 +20,12 @@ categories: ["omnigram"]
 4. 支持多种类型资料自动管理功能（NAS 服务端）和全局内容搜索；
 5. 对于多媒体资源如音频、视频资源提供基本的归纳和搜刮功能（类似/jellyfin 视频管理功能，这里尽量是兼容和对接市面上成熟的音视频播放如 infuse、kodi 等软件）
 6. 支持主流网盘进行加密备份功能，定期同步本地文件到如 Google Drive、One Dirve、阿里云盘等；
-7. 支持一定到用户管理功能，实现家庭一些权限划分（考虑到影视分级等）；
+7. 支持基本的用户管理功能，实现家庭一些权限划分（考虑到影视分级等）；
 
 ## 目前的想法：
 
-主要打磨阅读和听书两部分功能，后边基于此完成其他目标功能
+主要打磨阅读和听书两部分功能，后边基于此完成其他目标功能。
+
+## 项目地址
+
+[omnigram](https://github.com/nexptr/omnigram)
