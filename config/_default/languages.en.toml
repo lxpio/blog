@@ -5,7 +5,7 @@ languageCode = 'en'
 languageDirection = 'ltr'
 weight = 2
 title = "LXPIO"
-
+copyright = "LXPIO Team | [湘ICP备2024043073号](https://beian.miit.gov.cn/)  @2024"
 
 [params]
   dateFormat = "2 January 2006"
