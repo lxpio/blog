@@ -28,4 +28,4 @@ categories: ["omnigram"]
 
 ## 项目地址
 
-[omnigram](https://github.com/nexptr/omnigram)
+[omnigram](https://github.com/lxpio/omnigram)
