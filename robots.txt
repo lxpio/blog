@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.lxpio.com/sitemap.xml
+Sitemap: https://b.lxpio.com/sitemap.xml
